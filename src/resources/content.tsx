@@ -164,10 +164,6 @@ const about: About = {
         name: "New York University Tandon School of Engineering",
         description: <>Integrated Design & Media.</>,
       },
-      {
-        name: "Build the Future",
-        description: <>Studied online marketing and personal branding.</>,
-      },
     ],
   },
   technical: {
