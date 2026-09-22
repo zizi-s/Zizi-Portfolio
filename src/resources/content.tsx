@@ -197,8 +197,6 @@ const about: About = {
     ),
     tags: [],
     images: [],
-  },
-],
       },
     ],
   },
